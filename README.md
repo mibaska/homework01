@@ -46,11 +46,11 @@ THEN they are able to learn about the developer, find contact information, and f
 
 * Refer to these screenshots for your site:
 
-   ![Portfolio About](../Assets/Images/portfolio-about-me.png)
+   ![Portfolio About](./assets/images/portfolio-about-me.png)
 
-   ![Portfolio Contact](../Assets/Images/portfolio-contact.png)
+   ![Portfolio Contact](./assets/images/portfolio-contact.png)
 
-   ![Portfolio Gallery](../Assets/Images/portfolio-gallery.png)
+   ![Portfolio Gallery](./assets/images/portfolio-gallery.png)
 
 * **IMPORTANT** Your site's layout must match the designs in these screenshots. You'll find the specs for these designs below.
 
@@ -96,7 +96,7 @@ THEN they are able to learn about the developer, find contact information, and f
 * Dimensions:
    * The entire content and the main section content area is `960px` wide.
 
-   ![Recommended Dimensions](../Assets/Images/Recommended-Dimensions.png)
+   ![Recommended Dimensions](./Assets/Images/Recommended-Dimensions.png)
 
 * Make a "sticky footer." You will notice that the dark gray footer will always rest just below the content. This is fine whenever your site has enough content to push it down past the height of most monitors. But if there isn't much content in the body, the footer could rest in the middle of the page:
    * Try to code the footer in a way that it will always remain at the bottom of the page, no matter how short the content is. Refer to this [sticky footer tutorial](https://css-tricks.com/couple-takes-sticky-footer/) for guidance.
