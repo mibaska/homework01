@@ -1,0 +1,27 @@
+h1, h2, h3, h4, h5, h6 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+p, ul {
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+#box {
+    background-color: #ffffff;
+    border-top: 8px solid #dddddd;
+	height: 100px;
+	width: 100px;
+	margin:auto;
+}
+.content {
+    min-height: calc(100vh - 70px);
+  }
+  .header {
+      background-color: #ffffff;
+      border-top: 8px solid #cccccc;
+  }
+.footer {
+    background-color: #666666;
+    height: 50px;
+    border-top: 8px solid #4aaaa5;
+}
